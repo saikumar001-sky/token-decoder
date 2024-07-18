@@ -1,12 +1,12 @@
 {
-  "name": "token-decoder",
-  "private": true,
-  "version": "0.0.0",
+  "name": "jwt-decoder-lib",
+  "private": false,
+  "version": "1.0.1",
   "type": "module",
   "files": ["dist"],
   "main": "./dist/jwt-decoders.umd.cjs",
   "module": "./dist/jwt-decoders.js",
-  "homepage": "https://github.com/saikumar001-sky/countryflags-vue",
+  "homepage": "https://github.com/saikumar001-sky/token-decoder",
   "keywords": [
     "JWT",
     "Token",

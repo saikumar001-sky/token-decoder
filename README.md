@@ -5,7 +5,7 @@ Token Decoder is a versatile npm package designed to decode JSON Web Tokens (JWT
 Use the package manager NPM to install package
 
 ```bash
-npm i token-decoder
+npm i jwt-decoder-lib
 ```
 
 ## Import
@@ -36,4 +36,4 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 ## 🚀 About Me
 I'm a Frontend Developer...
-🚀[GitHub Repository](https://github.com/saikumar001-sky/countryflags-vue)
+🚀[GitHub Repository](https://github.com/saikumar001-sky/token-decoder)
